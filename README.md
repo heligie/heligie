@@ -4,4 +4,6 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white&labelColor=0088cc&link=https://t.me/heligie)](https://t.me/heligie)
 [![wakatime](https://wakatime.com/badge/user/018b9771-bcfa-431c-b5fe-2a6bb4f26c9c.svg)](https://wakatime.com/@018b9771-bcfa-431c-b5fe-2a6bb4f26c9c)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heligie&layout=compact&theme=transparent" alt="Anurag's github stats">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heligie&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heligie&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heligie&theme=transparent&utcOffset=8)
